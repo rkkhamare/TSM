@@ -20,7 +20,7 @@ int main()
 {
     int choice;
     cout << "\n\n--------------------------------------------------------------------" << endl;
-    cout << "               Training Schedule Management System                  " << endl;
+    cout << "               Training Schedule Management System - For Demo               " << endl;
     cout << "--------------------------------------------------------------------" << endl;
     cout << "\n\n\t\tWelcome To Home Page" << endl;
     cout << "\n\t\tPress 1 --> Admin Login" << endl;
